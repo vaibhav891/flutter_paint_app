@@ -1,6 +1,6 @@
 # paint_app
 
-A new Flutter project.
+A Flutter paint app.
 
 ## Getting Started
 
